@@ -35,25 +35,25 @@
 
 ---
 
-- [x] [TryHackMe | Welcome](https://tryhackme.com/room/hello)
+- [ ] [TryHackMe | Welcome](https://tryhackme.com/room/hello)
 
-- [x] [TryHackMe | How to use TryHackMe](https://tryhackme.com/room/howtousetryhackme)
+- [ ] [TryHackMe | How to use TryHackMe](https://tryhackme.com/room/howtousetryhackme)
 
 - [ ] [TryHackMe | Welcome](https://tryhackme.com/room/welcome)
 
-- [x] [TryHackMe | Tutorial](https://tryhackme.com/room/tutorial)
+- [ ] [TryHackMe | Tutorial](https://tryhackme.com/room/tutorial)
 
-- [x] [TryHackMe | OpenVPN](https://tryhackme.com/room/openvpn)
+- [ ] [TryHackMe | OpenVPN](https://tryhackme.com/room/openvpn)
 
-- [x] [TryHackMe | Learning Cyber Security](https://tryhackme.com/room/beginnerpathintro)
+- [ ] [TryHackMe | Learning Cyber Security](https://tryhackme.com/room/beginnerpathintro)
 
-- [x] [TryHackMe | Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec)
+- [ ] [TryHackMe | Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec)
 
-- [x] [TryHackMe | Introductory Researching](https://tryhackme.com/room/introtoresearch)
+- [ ] [TryHackMe | Introductory Researching](https://tryhackme.com/room/introtoresearch)
 
 - [ ] [TryHackMe | CC: Pen Testing](https://tryhackme.com/room/ccpentesting)
 
-- [x] [TryHackMe | Regular expressions](https://tryhackme.com/room/catregex) *
+- [ ] [TryHackMe | Regular expressions](https://tryhackme.com/room/catregex)  
 
 ## Linux Fundamentals
 
@@ -61,9 +61,9 @@
 
 - [ ] [TryHackMe | Learn Linux](https://tryhackme.com/room/zthlinux)
 
-- [x] [TryHackMe | Linux Modules](https://tryhackme.com/room/linuxmodules) *
+- [ ] [TryHackMe | Linux Modules](https://tryhackme.com/room/linuxmodules)  
 
-- [x] [TryHackMe | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
+- [ ] [TryHackMe | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
 
 ## Windows Fundamentals
 
@@ -145,7 +145,7 @@
 
 ---
 
-- [x] [TryHackMe | Introductory Networking](https://tryhackme.com/room/introtonetworking)
+- [ ] [TryHackMe | Introductory Networking](https://tryhackme.com/room/introtonetworking)
 
 - [ ] [TryHackMe | What is Networking?](https://tryhackme.com/room/whatisnetworking)
 
@@ -171,7 +171,7 @@
 
 - [ ] [TryHackMe | REmux The Tmux](https://tryhackme.com/room/tmuxremux)
 
-- [x] [TryHackMe | Hydra](https://tryhackme.com/room/hydra)
+- [ ] [TryHackMe | Hydra](https://tryhackme.com/room/hydra)
 
 - [ ] [TryHackMe | Sublist3r](https://tryhackme.com/room/rpsublist3r)
 
