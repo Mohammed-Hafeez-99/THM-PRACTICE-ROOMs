@@ -220,6 +220,7 @@
 - [ ] [TryHackMe | Intro to LAN](https://tryhackme.com/room/introtolan)
 - [ ] [TryHackMe | HTTP in detail](https://tryhackme.com/room/httpindetail)
 - [ ] [TryHackMe | DNS in detail](https://tryhackme.com/room/dnsindetail)
+- [ ] [TryHackMe | Network Discovery Detection](https://tryhackme.com/room/networkdiscoverydetection)
 - [ ] [TryHackMe | Dumping Router Firmware](https://tryhackme.com/room/rfirmware)
 ## Tooling
 - [ ] [TryHackMe | Metasploit: Introduction](https://tryhackme.com/room/metasploitintro)
