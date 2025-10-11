@@ -181,8 +181,6 @@
 
 ---
 
-- [ ] [TryHackMe | Learn Linux](https://tryhackme.com/room/zthlinux)
-
 - [ ] [TryHackMe | Linux Modules](https://tryhackme.com/room/linuxmodules)  
 
 - [ ] [TryHackMe | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
@@ -235,6 +233,20 @@
 - [ ] [TryHackMe | OpenVAS](https://tryhackme.com/room/openvas)
 - [ ] [TryHackMe | ISO27001](https://tryhackme.com/room/iso27001)
 - [ ] [TryHackMe | UltraTech](https://tryhackme.com/room/ultratech1)
+- [ ] [TryHackMe | Hypervisor Internals](https://tryhackme.com/room/hypervisorinternals)             
+- [ ] [TryHackMe | Splunk: Exploring SPL](https://tryhackme.com/room/splunkexploringspl)             
+- [ ] [TryHackMe | ParrotPost: Phishing Analysis](https://tryhackme.com/room/parrotpost)             
+- [ ] [TryHackMe | x86 Architecture Overview](https://tryhackme.com/room/x8664arch)                  
+- [ ] [TryHackMe | Threat Intelligence for SOC](https://tryhackme.com/room/threatintelligenceforsoc) 
+- [ ] [TryHackMe | Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)                   
+- [ ] [TryHackMe | Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)       
+- [ ] [TryHackMe | Principles of Security](https://tryhackme.com/room/principlesofsecurity)          
+- [ ] [TryHackMe | The Hacker Methodology](https://tryhackme.com/room/hackermethodology)             
+- [ ] [TryHackMe | Physical Security Intro](https://tryhackme.com/room/physicalsecurityintro)        
+- [ ] [TryHackMe | Linux Strength Training](https://tryhackme.com/room/linuxstrengthtraining)        
+- [ ] [TryHackMe | OpenVAS](https://tryhackme.com/room/openvas)                                      
+- [ ] [TryHackMe | ISO27001](https://tryhackme.com/room/iso27001)                                    
+- [ ] [TryHackMe | UltraTech](https://tryhackme.com/room/ultratech1)      
 
 
 ## Recon
@@ -279,7 +291,6 @@
 
 - [ ] [TryHackMe | Learn Rust](https://tryhackme.com/room/rust)
 
-- [ ] [TryHackMe | Why Subscribe](https://tryhackme.com/room/yara)
 
 ## Networking
 
@@ -336,6 +347,10 @@
 - [ ] [TryHackMe | Burp Suite: The Basics](https://tryhackme.com/room/burpsuitebasics)
 
 - [ ] [TryHackMe | Burp Suite: Repeater](https://tryhackme.com/room/burpsuiterepeater)
+
+- [ ] [TryHackMe | Snyk Open Source](https://tryhackme.com/room/snykopensource)          
+- [ ] [TryHackMe | Snyk Code](https://tryhackme.com/room/snykcode)                       
+- [ ] [TryHackMe | Intro to IaC](https://tryhackme.com/room/introtoiac)   
 
 
 
@@ -478,6 +493,39 @@
 - [ ] [TryHackMe | Develpy](https://tryhackme.com/room/bsidesgtdevelpy)
 - [ ] [TryHackMe | Jack-of-All-Trades](https://tryhackme.com/room/jackofalltrades)
 - [ ] [TryHackMe | Bolt](https://tryhackme.com/room/bolt)
+- [ ] [TryHackMe | Microservices Architectures](https://tryhackme.com/room/microservicearchitectures) 
+- [ ] [TryHackMe | NoSQL Injection](https://tryhackme.com/room/nosqlinjectiontutorial)                
+- [ ] [TryHackMe | Advanced SQL Injection](https://tryhackme.com/room/advancedsqlinjection)           
+- [ ] [TryHackMe | XSS](https://tryhackme.com/room/axss)                                              
+- [ ] [TryHackMe | CSRF](https://tryhackme.com/room/csrfV2)                                           
+- [ ] [TryHackMe | File Inclusion, Path Traversal](https://tryhackme.com/room/filepathtraversal)      
+- [ ] [TryHackMe | HTTP Request Smuggling](https://tryhackme.com/room/httprequestsmuggling)           
+- [ ] [TryHackMe | HTTP/2 Request Smuggling](https://tryhackme.com/room/http2requestsmuggling)        
+- [ ] [TryHackMe | SSRF](https://tryhackme.com/room/ssrfhr)                                           
+- [ ] [TryHackMe | OWASP Broken Access Control](https://tryhackme.com/room/owaspbrokenaccesscontrol)  
+- [ ] [TryHackMe | HTTP in detail](https://tryhackme.com/room/webfundamentals)                        
+- [ ] [TryHackMe | Vulnerabilities 101](https://tryhackme.com/room/vulnerabilities101)                
+- [ ] [TryHackMe | Walking An Application](https://tryhackme.com/room/walkinganapplication)           
+- [ ] [TryHackMe | OWASP Top 10 - 2021](https://tryhackme.com/room/owasptop102021)                    
+- [ ] [TryHackMe | OWASP Top 10](https://tryhackme.com/room/owasptop10)                               
+- [ ] [TryHackMe | OWASP Juice Shop](https://tryhackme.com/room/owaspjuiceshop)                       
+- [ ] [TryHackMe | OWASP Mutillidae II](https://tryhackme.com/room/owaspmutillidae)                   
+- [ ] [TryHackMe | WebGOAT](https://tryhackme.com/room/webgoat)                                       
+- [ ] [TryHackMe | Web Application Security](https://tryhackme.com/room/introwebapplicationsecurity)  
+- [ ] [TryHackMe | DVWA](https://tryhackme.com/room/dvwa)                                             
+- [ ] [TryHackMe | VulnNet](https://tryhackme.com/room/vulnnet1)                                      
+- [ ] [TryHackMe | Juicy Details](https://tryhackme.com/room/juicydetails)                            
+- [ ] [TryHackMe | Vulnversity](https://tryhackme.com/room/vulnversity)                               
+- [ ] [TryHackMe | SQL Injection Lab](https://tryhackme.com/room/sqlilab)                             
+- [ ] [TryHackMe | SSTI](https://tryhackme.com/room/learnssti)                                        
+- [ ] [TryHackMe | SQL Injection](https://tryhackme.com/room/sqlinjectionlm)                          
+- [ ] [TryHackMe | Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)                    
+- [ ] [TryHackMe | Ignite](https://tryhackme.com/room/ignite)                                         
+- [ ] [TryHackMe | Overpass](https://tryhackme.com/room/overpass)                                     
+- [ ] [TryHackMe | Year of the Rabbit](https://tryhackme.com/room/yearoftherabbit)                    
+- [ ] [TryHackMe | Develpy](https://tryhackme.com/room/bsidesgtdevelpy)                               
+- [ ] [TryHackMe | Jack-of-All-Trades](https://tryhackme.com/room/jackofalltrades)                    
+- [ ] [TryHackMe | Bolt](https://tryhackme.com/room/bolt) 
 
 
 ## Android
@@ -532,6 +580,23 @@
 - [ ] [TryHackMe | Forensics](https://tryhackme.com/room/forensics)
 - [ ] [TryHackMe | Memory Forensics](https://tryhackme.com/room/memoryforensics)
 - [ ] [TryHackMe | Volatility](https://tryhackme.com/room/bpvolatility)
+- [ ] [TryHackMe | Linux Incident Surface](https://tryhackme.com/room/linuxincidentsurface)                 
+- [ ] [TryHackMe | IR Playbooks](https://tryhackme.com/room/irplaybooks)                                    
+- [ ] [TryHackMe | Intro to Cold System Forensics](https://tryhackme.com/room/introtocoldsystemforensics)   
+- [ ] [TryHackMe | Unified Kill Chain](https://tryhackme.com/room/unifiedkillchain)                         
+- [ ] [TryHackMe | Forensic Imaging](https://tryhackme.com/room/forensicimaging)                            
+- [ ] [TryHackMe | IR Philosophy and Ethics](https://tryhackme.com/room/irphilosophyethics)                 
+- [ ] [TryHackMe | Windows Applications Forensics](https://tryhackme.com/room/windowsapplications)          
+- [ ] [TryHackMe | Legal Considerations in DFIR](https://tryhackme.com/room/dfirprocesslegalconsiderations) 
+- [ ] [TryHackMe | Servidae: Log Analysis in ELK](https://tryhackme.com/room/servidae)                      
+- [ ] [TryHackMe | Cyber Kill Chain](https://tryhackme.com/room/cyberkillchainzmt)                          
+- [ ] [TryHackMe | Identification & Scoping](https://tryhackme.com/room/identificationandscoping)           
+- [ ] [TryHackMe | Digital Forensics Case B4DM755](https://tryhackme.com/room/caseb4dm755)                  
+- [ ] [TryHackMe | Linux Server Forensics](https://tryhackme.com/room/linuxserverforensics)                 
+- [ ] [TryHackMe | Forensics](https://tryhackme.com/room/forensics)                                         
+- [ ] [TryHackMe | Memory Forensics](https://tryhackme.com/room/memoryforensics)                            
+- [ ] [TryHackMe | Volatility](https://tryhackme.com/room/bpvolatility)                                     
+- [ ] [TryHackMe | Disk Analysis &amp; Autopsy](https://tryhackme.com/room/autopsy2ze0)      
 - [ ] [TryHackMe | Disk Analysis &amp; Autopsy](https://tryhackme.com/room/autopsy2ze0)
 
 
@@ -558,11 +623,12 @@
 - [ ] [TryHackMe | CC: Radare2](https://tryhackme.com/room/ccradare2)
 
 - [ ] [TryHackMe | CC: Ghidra](https://tryhackme.com/room/ccghidra)
-
+- [ ] [TryHackMe | Aster](https://tryhackme.com/room/aster)      
 
 - [ ] [TryHackMe | Classic Passwd](https://tryhackme.com/room/classicpasswd)
 
 - [ ] [TryHackMe | REloaded](https://tryhackme.com/room/reloaded)
+
 
 ## Malware Analysis
 
@@ -573,6 +639,7 @@
 - [ ] [TryHackMe | MAL: Malware Introductory](https://tryhackme.com/room/malmalintroductory)
 
 - [ ] [TryHackMe | Basic Malware RE](https://tryhackme.com/room/basicmalwarere)
+- [ ] [TryHackMe | Intro to Detection Engineering](https://tryhackme.com/room/introtodetectionengineering)
 
 - [ ] [TryHackMe | MAL: Researching](https://tryhackme.com/room/malresearching)
 
@@ -696,6 +763,7 @@
 - [ ] [TryHackMe | USTOUN](https://tryhackme.com/room/ustoun)
 - [ ] [TryHackMe | Enterprise](https://tryhackme.com/room/enterprise)
 - [ ] [TryHackMe | RazorBlack](https://tryhackme.com/room/raz0rblack)
+- [ ] [TryHackMe | Breaching Active Directory](https://tryhackme.com/room/breachingad) 
 
 
 ## PCAP Analysis
