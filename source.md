@@ -363,7 +363,6 @@
 - [ ] [TryHackMe | OWASP Broken Access Control](https://tryhackme.com/room/owaspbrokenaccesscontrol)
 - [ ] [TryHackMe | HTTP in detail](https://tryhackme.com/room/webfundamentals)
 - [ ] [TryHackMe | Vulnerabilities 101](https://tryhackme.com/room/vulnerabilities101)
-- ~~[TryHackMe | Walking An Application](https://tryhackme.com/room/walkinganapplication)~~ -- Sadly..! This was made **PREMIUM**
 - [ ] [TryHackMe | OWASP Top 10 - 2021](https://tryhackme.com/room/owasptop102021)
 - [ ] [TryHackMe | OWASP Top 10](https://tryhackme.com/room/owasptop10)
 - [ ] [TryHackMe | OWASP Juice Shop](https://tryhackme.com/room/owaspjuiceshop)
