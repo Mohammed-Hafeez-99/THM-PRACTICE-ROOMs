@@ -1561,7 +1561,6 @@
 - [ ] [TryHackMe | Solar, exploiting log4j](https://tryhackme.com/room/solar)
 - [ ] [TryHackMe | Conti](https://tryhackme.com/room/contiransomwarehgh)
 - [ ] [TryHackMe | Dirty Pipe: CVE-2022-0847](https://tryhackme.com/room/dirtypipe)
-- [ ] [TryHackMe | The find command](https://tryhackme.com/room/thefindcommand)
 
 
 ## Special Events
@@ -1578,7 +1577,6 @@
 
 - [ ] [TryHackMe | Cyber Scotland 2021](https://tryhackme.com/room/cyberweek2021)
 
-- [ ] [TryHackMe | Hacker of the Hill #1](https://tryhackme.com/room/hackerofthehill)
 
 
 - [ ] [TryHackMe | Advent of Cyber 2 [2020]](https://tryhackme.com/room/adventofcyber2)
@@ -1587,6 +1585,3 @@
 - [ ] [TryHackMe | Advent of Cyber 2024](https://tryhackme.com/r/room/adventofcyber2024)
 - [ ] [TryHackMe | Advent of Cyber '23 Side Quest](https://tryhackme.com/room/adventofcyber23sidequest)
 - [ ] [TryHackMe | Cyber Scotland 2021](https://tryhackme.com/room/cyberweek2021)
-- [ ] [TryHackMe | Hacker of the Hill #1](https://tryhackme.com/room/hackerofthehill)
-- [ ] [TryHackMe | Learn and win prizes](https://tryhackme.com/room/tickets1)
-- [ ] [TryHackMe | Learn and win prizes #2](https://tryhackme.com/room/tickets2)
