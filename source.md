@@ -48,18 +48,16 @@
 - [ ] [TryHackMe | Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec)
 
 - [ ] [TryHackMe | Introductory Researching](https://tryhackme.com/room/introtoresearch)
+- [ ] [TryHackMe | Introduction to Flask](https://tryhackme.com/room/flask)
 
 
-- [ ] [TryHackMe | Regular expressions](https://tryhackme.com/room/catregex)  
-
+- [ ] [TryHackMe | Regular expressions](https://tryhackme.com/room/catregex)
 - [ ] [TryHackMe | Bypass Really Simple Security](https://tryhackme.com/room/bypassreallysimplesecurity)
 - [ ] [TryHackMe | Web Application Basics](https://tryhackme.com/r/room/webapplicationbasics)
 - [ ] [TryHackMe | Cryptography Basics](https://tryhackme.com/r/room/cryptographybasics)
 - [ ] [TryHackMe | CyberChef: The Basics](https://tryhackme.com/r/room/cyberchefbasics)
 - [ ] [TryHackMe | SOC Fundamentals](https://tryhackme.com/r/room/socfundamentals)
-- [ ] [TryHackMe | Networking Concepts](https://tryhackme.com/r/room/networkingconcepts)
 - [ ] [TryHackMe | Search Skills](https://tryhackme.com/r/room/searchskills)
-- [ ] [TryHackMe | Windows Command Line](https://tryhackme.com/r/room/windowscommandline)
 - [ ] [TryHackMe | Hosted Hypervisors](https://tryhackme.com/r/room/hostedhypervisors)
 - [ ] [TryHackMe | Enumeration & Brute Force](https://tryhackme.com/r/room/enumerationbruteforce)
 - [ ] [TryHackMe | Introduction to CryptOps](https://tryhackme.com/r/room/introductiontocryptops)
@@ -80,11 +78,6 @@
 - [ ] [TryHackMe | Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec)
 - [ ] [TryHackMe | Introductory Researching](https://tryhackme.com/room/introtoresearch)
 - [ ] [TryHackMe | Regular expressions](https://tryhackme.com/room/catregex)
-- [ ] [TryHackMe | Wgel CTF](https://tryhackme.com/room/wgelctf)                                
-- [ ] [TryHackMe | Pyrat](https://tryhackme.com/room/pyrat)                                     
-- [ ] [TryHackMe | Cheese CTF](https://tryhackme.com/room/cheesectfv10)                         
-- [ ] [TryHackMe | U.A. High School](https://tryhackme.com/room/yueiua)                         
-- [ ] [TryHackMe | Joomify](https://tryhackme.com/room/joomify)                                 
 - [ ] [TryHackMe | Critical](https://tryhackme.com/room/critical)                               
 - [ ] [TryHackMe | Publisher](https://tryhackme.com/room/publisher)                             
 - [ ] [TryHackMe | Become a Hacker](https://tryhackme.com/room/becomeahackeroa)                 
@@ -297,6 +290,8 @@
 ---
 
 - [ ] [TryHackMe | Introductory Networking](https://tryhackme.com/room/introtonetworking)
+
+- [ ] [TryHackMe | Networking Concepts](https://tryhackme.com/r/room/networkingconcepts)
 
 - [ ] [TryHackMe | What is Networking?](https://tryhackme.com/room/whatisnetworking)
 
@@ -715,6 +710,8 @@
 ## Windows
 
 ---
+
+- [ ] [TryHackMe | Windows Command Line](https://tryhackme.com/r/room/windowscommandline)
 
 - [ ] [TryHackMe | Investigating Windows](https://tryhackme.com/room/investigatingwindows)
 
@@ -1308,13 +1305,9 @@
 - [ ] [TryHackMe | M4tr1x: Exit Denied](https://tryhackme.com/room/m4tr1xexitdenied)                     
 - [ ] [TryHackMe | Shaker](https://tryhackme.com/room/shaker)                                            
 - [ ] [TryHackMe | Frosteau Busy with Vim](https://tryhackme.com/room/busyvimfrosteau)                   
-- [ ] [TryHackMe | Hosted Hypervisors](https://tryhackme.com/room/hostedhypervisors)                     
-- [ ] [TryHackMe | Enumeration & Brute Force](https://tryhackme.com/room/enumerationbruteforce)          
-- [ ] [TryHackMe | Introduction to CryptOps](https://tryhackme.com/room/introductiontocryptops)          
 - [ ] [TryHackMe | Linux File System Analysis](https://tryhackme.com/room/linuxfilesystemanalysis)       
 - [ ] [TryHackMe | Threat Hunting: Foothold](https://tryhackme.com/room/threathuntingfoothold)           
 - [ ] [TryHackMe | Preparation](https://tryhackme.com/room/preparation)                                  
-- [ ] [TryHackMe | SDLC](https://tryhackme.com/room/sdlc)                                                
 - [ ] [TryHackMe | Motunui](https://tryhackme.com/room/motunui)
 - [ ] [TryHackMe | Spring](https://tryhackme.com/room/spring)
 
@@ -1465,7 +1458,6 @@
 
 - [ ] [TryHackMe | DLL HIJACKING](https://tryhackme.com/room/dllhijacking)
 
-- [ ] [TryHackMe | Intro to IoT Pentesting](https://tryhackme.com/room/iotintro)
 
 - [ ] [TryHackMe | Attacking ICS Plant #1](https://tryhackme.com/room/attackingics1)
 
@@ -1475,7 +1467,6 @@
 
 - [ ] [TryHackMe | DNS Manipulation](https://tryhackme.com/room/dnsmanipulation)
 
-- [ ] [TryHackMe | Introduction to Flask](https://tryhackme.com/room/flask)
 
 - [ ] [TryHackMe | MITRE](https://tryhackme.com/room/mitre)
 
@@ -1489,7 +1480,6 @@
 
 - [ ] [TryHackMe | Binary Heaven](https://tryhackme.com/room/binaryheaven)
 
-- [ ] [TryHackMe | Git and Crumpets](https://tryhackme.com/room/gitandcrumpets)
 
 - [ ] [TryHackMe | Polkit: CVE-2021-3560](https://tryhackme.com/room/polkit)
 
@@ -1542,14 +1532,12 @@
 - [ ] [TryHackMe | Attacking ICS Plant #2](https://tryhackme.com/room/attackingics2)
 - [ ] [TryHackMe | Printer Hacking 101](https://tryhackme.com/room/printerhacking101)
 - [ ] [TryHackMe | DNS Manipulation](https://tryhackme.com/room/dnsmanipulation)
-- [ ] [TryHackMe | Introduction to Flask](https://tryhackme.com/room/flask)
 - [ ] [TryHackMe | MITRE](https://tryhackme.com/room/mitre)
 - [ ] [TryHackMe | magician](https://tryhackme.com/room/magician)
 - [ ] [TryHackMe | JPGChat](https://tryhackme.com/room/jpgchat)
 - [ ] [TryHackMe | Baron Samedit](https://tryhackme.com/room/sudovulnssamedit)
 - [ ] [TryHackMe | CVE-2021-41773/42013](https://tryhackme.com/room/cve202141773)
 - [ ] [TryHackMe | Binary Heaven](https://tryhackme.com/room/binaryheaven)
-- [ ] [TryHackMe | Git and Crumpets](https://tryhackme.com/room/gitandcrumpets)
 - [ ] [TryHackMe | Polkit: CVE-2021-3560](https://tryhackme.com/room/polkit)
 - [ ] [TryHackMe | Hip Flask](https://tryhackme.com/room/hipflask)
 - [ ] [TryHackMe | Bypass Disable Functions](https://tryhackme.com/room/bypassdisablefunctions)
