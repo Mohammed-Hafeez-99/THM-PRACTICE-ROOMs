@@ -212,7 +212,6 @@
 
 - [ ] [TryHackMe | What is Networking?](https://tryhackme.com/room/whatisnetworking)
 
-- [ ] [TryHackMe | Networking](https://tryhackme.com/room/bpnetworking)
 
 - [ ] [TryHackMe | Intro to LAN](https://tryhackme.com/room/introtolan)
 
